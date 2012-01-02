@@ -1,0 +1,19 @@
+C Data Structures To Code
+
+Linked List -- Done
+Stack       -- Done
+Queue       -- Done
+
+ArrayList   -- Done
+
+Abstract Heap -- Done
+	Min heap	  -- Done
+	Max Heap		-- Done
+
+BST Generic
+	Standard BST
+	AVL Tree
+
+Map generic
+	Tree Map
+	Hash Map
