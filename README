@@ -1,0 +1,21 @@
+***********************************************************************
+DataStructs - A data structures library written in C
+***********************************************************************
+
+- A simple, extensible data structures library containing the following
+  data structures:
+
+  - Minheap/Maxheap
+	- Linked List
+	- Stack
+	- Queue
+	- Resizeable Array
+
+- Planned additions:
+	- Binary Search Tree
+	- AVL Tree (Balancing BST)
+	- Tree Map (Associative Array)
+	- Hash Table
+
+*note- This project is currently on hold, though there are plans for its
+completion.
